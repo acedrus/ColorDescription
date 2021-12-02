@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ColorDescription</string>
+    <string name="button_name">Покажи описание</string>
+    <string-array name="age">
+        <item>Молодой</item>
+        <item>Постарше</item>
+        <item>Еще постарше</item>
+        <item>Постарше, но не старый</item>
+    </string-array>
+
+    <string-array name="age_description">
+        <item>10-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+</resources>
